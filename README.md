@@ -7,7 +7,7 @@ person is wearing mask or not .
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Vikas031/Face-Mask-Detection-System-Deep-Learning-/blob/master/Facemask%20Screenshot/2img.png) ![App Screenshot](https://github.com/Vikas031/Face-Mask-Detection-System-Deep-Learning-/blob/master/Facemask%20Screenshot/1img.png) 
+![App Screenshot](https://github.com/Utk001/FaceMask-Detection-System-Deep-Learning/blob/main/Facemask%20Screenshot/2img.png) ![App Screenshot](https://github.com/Utk001/FaceMask-Detection-System-Deep-Learning/blob/main/Facemask%20Screenshot/1img.png) 
 
 
 • PROJECT IMPLEMENTATION IS BASICALLY IN 4 PARTS :
@@ -20,11 +20,11 @@ person is wearing mask or not .
 • Platform Used for Model Training : Google Colab
 • For normal operation IDE used is : Pycharm
 ## Image Dataset Screenshots
-![App Screenshot](https://github.com/Vikas031/Face-Mask-Detection-System-Deep-Learning-/blob/master/Facemask%20Screenshot/withmask.png)
-![App Screenshot](https://github.com/Vikas031/Face-Mask-Detection-System-Deep-Learning-/blob/master/Facemask%20Screenshot/withoutmask.png)
+![App Screenshot](https://github.com/Utk001/FaceMask-Detection-System-Deep-Learning/blob/main/Facemask%20Screenshot/withmask.png)
+![App Screenshot](https://github.com/Utk001/FaceMask-Detection-System-Deep-Learning/blob/main/Facemask%20Screenshot/withoutmask.png)
 
 ## Convolutional Nerwork
-![App Screenshot](https://github.com/Vikas031/Face-Mask-Detection-System-Deep-Learning-/blob/master/Facemask%20Screenshot/network.png)
+![App Screenshot](https://github.com/Utk001/FaceMask-Detection-System-Deep-Learning/blob/main/Facemask%20Screenshot/network.png)
 
 Link for Google Colab CNN implementation :
 https://colab.research.google.com/drive/1op5Ku6AkGdrdFsDPO0q34-5cLm_Cn5NW?usp=sharing
